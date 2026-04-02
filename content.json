@@ -1,0 +1,212 @@
+{
+  "images": {
+    "logoSrc": "placeholder.svg",
+    "hero": "placeholder.svg",
+    "favicon": "placeholder.svg",
+    "ogImage": "placeholder.svg",
+    "bento": ["placeholder.svg", "placeholder.svg", "placeholder.svg"],
+    "testimonialAvatars": ["placeholder.svg", "placeholder.svg", "placeholder.svg"]
+  },
+  "navbar": {
+    "logo": { "fr": "Aurora", "en": "Aurora" },
+    "links": [
+      { "label": { "fr": "Accueil", "en": "Home" }, "href": "/" },
+      { "label": { "fr": "Offre", "en": "Services" }, "href": "/offre" },
+      { "label": { "fr": "À propos", "en": "About" }, "href": "/a-propos" },
+      { "label": { "fr": "Contact", "en": "Contact" }, "href": "/contact" }
+    ],
+    "cta": { "fr": "Écrire", "en": "Get in touch" },
+    "ctaHref": "/contact",
+    "menu": { "fr": "Menu", "en": "Menu" },
+    "close": { "fr": "Fermer", "en": "Close" }
+  },
+  "hero": {
+    "title": {
+      "fr": "Studio créatif & sites vitrines",
+      "en": "Creative studio & marketing sites"
+    },
+    "subtitle": {
+      "fr": "Modèle multi-pages : même page.config que le site de base, routes /offre, /a-propos, /contact. Thème clair indigo.",
+      "en": "Multi-page template: same page.config as the base site, routes /offre, /a-propos, /contact. Light indigo theme."
+    },
+    "cta": { "fr": "Découvrir l’offre", "en": "See services" },
+    "ctaHref": "/offre",
+    "variant": "split",
+    "imageAlt": { "fr": "Aperçu", "en": "Preview" }
+  },
+  "features": {
+    "sectionId": "services",
+    "title": { "fr": "Ce qu’on propose", "en": "What we offer" },
+    "subtitle": {
+      "fr": "Identité, mise en page modulaire, déploiement statique.",
+      "en": "Identity, modular layout, static deployment."
+    },
+    "items": [
+      {
+        "icon": "flash",
+        "title": { "fr": "Livraison rapide", "en": "Fast delivery" },
+        "text": { "fr": "Itérations courtes sur contenu JSON.", "en": "Short iterations on JSON content." }
+      },
+      {
+        "icon": "target",
+        "title": { "fr": "Objectifs clairs", "en": "Clear goals" },
+        "text": { "fr": "Une page par intention : offre, preuve sociale, contact.", "en": "One page per intent: offer, social proof, contact." }
+      },
+      {
+        "icon": "puzzle",
+        "title": { "fr": "Blocs composables", "en": "Composable blocks" },
+        "text": { "fr": "Réordonnez les sections par route dans content.pages.", "en": "Reorder sections per route in content.pages." }
+      }
+    ]
+  },
+  "bento": {
+    "title": { "fr": "Réalisations", "en": "Selected work" },
+    "subtitle": { "fr": "Cartes cliquables vers d’autres routes.", "en": "Cards linking to other routes." },
+    "note": { "fr": "Remplacez par vos vrais projets.", "en": "Swap in your real projects." },
+    "items": [
+      {
+        "title": { "fr": "Refonte marque", "en": "Brand refresh" },
+        "text": { "fr": "Direction artistique et site.", "en": "Art direction and site." },
+        "href": "/offre",
+        "ctaText": { "fr": "Voir l’offre", "en": "Services" }
+      },
+      {
+        "title": { "fr": "Lancement produit", "en": "Product launch" },
+        "text": { "fr": "Landing + analytics.", "en": "Landing + analytics." },
+        "href": "/contact",
+        "ctaText": { "fr": "Nous contacter", "en": "Contact us" }
+      },
+      {
+        "title": { "fr": "Équipe & valeurs", "en": "Team & values" },
+        "text": { "fr": "Storytelling institutionnel.", "en": "Institutional storytelling." },
+        "href": "/a-propos",
+        "ctaText": { "fr": "À propos", "en": "About" }
+      }
+    ]
+  },
+  "pricing": {
+    "highlightedPlan": 1,
+    "planCtaHref": "/contact",
+    "title": { "fr": "Formules", "en": "Plans" },
+    "subtitle": {
+      "fr": "Exemple chiffré — à adapter à votre métier.",
+      "en": "Sample pricing — adapt to your business."
+    },
+    "plans": [
+      {
+        "name": { "fr": "Essentiel", "en": "Essential" },
+        "price": { "fr": "1 200 €", "en": "1,200 EUR" },
+        "description": { "fr": "Une landing + 2 pages.", "en": "One landing + 2 pages." },
+        "features": [
+          { "fr": "Thème sur-mesure (API)", "en": "Custom theme (API)" },
+          { "fr": "Hébergement Pages inclus", "en": "Pages hosting included" }
+        ],
+        "ctaText": { "fr": "Parler projet", "en": "Discuss project" }
+      },
+      {
+        "name": { "fr": "Studio", "en": "Studio" },
+        "price": { "fr": "2 800 €", "en": "2,800 EUR" },
+        "description": { "fr": "Jusqu’à 5 pages + variantes mobile.", "en": "Up to 5 pages + mobile polish." },
+        "features": [
+          { "fr": "Tout Essentiel", "en": "Everything in Essential" },
+          { "fr": "Multi-langue (FR/EN)", "en": "Bilingual (FR/EN)" },
+          { "fr": "Priorité support", "en": "Priority support" }
+        ],
+        "ctaText": { "fr": "Réserver un créneau", "en": "Book a slot" }
+      },
+      {
+        "name": { "fr": "Sur mesure", "en": "Custom" },
+        "price": { "fr": "Devis", "en": "Quote" },
+        "description": { "fr": "Intégrations, contenus riches, design system.", "en": "Integrations, rich content, design system." },
+        "features": [
+          { "fr": "Ateliers avec vos équipes", "en": "Workshops with your team" },
+          { "fr": "Roadmap dédiée", "en": "Dedicated roadmap" }
+        ],
+        "ctaText": { "fr": "Nous écrire", "en": "Email us" }
+      }
+    ]
+  },
+  "testimonials": {
+    "title": { "fr": "Ils en parlent", "en": "What clients say" },
+    "subtitle": { "fr": "Témoignages fictifs pour la démo.", "en": "Fictional quotes for the demo." },
+    "items": [
+      {
+        "name": { "fr": "Claire V.", "en": "Claire V." },
+        "text": { "fr": "Process clair et rendu soigné.", "en": "Clear process and polished output." },
+        "rating": 5
+      },
+      {
+        "name": { "fr": "Marc T.", "en": "Marc T." },
+        "text": { "fr": "Le site tient la route sur mobile.", "en": "The site holds up on mobile." },
+        "rating": 5
+      },
+      {
+        "name": { "fr": "Lina K.", "en": "Lina K." },
+        "text": { "fr": "Mises à jour simples via JSON.", "en": "Easy updates via JSON." },
+        "rating": 5
+      }
+    ]
+  },
+  "footer": {
+    "privacy": { "fr": "Confidentialité", "en": "Privacy" },
+    "terms": { "fr": "Mentions", "en": "Legal" },
+    "contact": { "fr": "Contact", "en": "Contact" },
+    "linkHrefs": {
+      "privacy": "#",
+      "terms": "#",
+      "contact": "/contact"
+    },
+    "socials": [
+      { "label": { "fr": "Instagram", "en": "Instagram" }, "href": "#" },
+      { "label": { "fr": "Behance", "en": "Behance" }, "href": "#" }
+    ],
+    "copyright": {
+      "fr": "© 2026 Aurora — modèle Orbisite.",
+      "en": "© 2026 Aurora — Orbisite template."
+    }
+  },
+  "pages": {
+    "/": {
+      "sections": ["navbar", "hero", "features", "bento", "pricing", "testimonials", "footer"]
+    },
+    "/offre": {
+      "sections": ["navbar", "hero", "features", "pricing", "testimonials", "footer"],
+      "hero": {
+        "title": { "fr": "Offre détaillée", "en": "Services in detail" },
+        "subtitle": {
+          "fr": "Cette route met l’accent sur les arguments (features) et les tarifs, puis la preuve sociale.",
+          "en": "This route emphasizes selling points (features) and pricing, then social proof."
+        },
+        "cta": { "fr": "Demander un devis", "en": "Request a quote" },
+        "ctaHref": "/contact",
+        "variant": "banner"
+      }
+    },
+    "/a-propos": {
+      "sections": ["navbar", "hero", "bento", "features", "footer"],
+      "hero": {
+        "title": { "fr": "Qui sommes-nous", "en": "Who we are" },
+        "subtitle": {
+          "fr": "Ici : hero + vitrine (bento) + rappel des piliers, sans pricing ni témoignages.",
+          "en": "Here: hero + showcase (bento) + pillars, no pricing or testimonials."
+        },
+        "cta": { "fr": "Voir les tarifs", "en": "See pricing" },
+        "ctaHref": "/offre",
+        "variant": "split"
+      }
+    },
+    "/contact": {
+      "sections": ["navbar", "hero", "testimonials", "pricing", "footer"],
+      "hero": {
+        "title": { "fr": "Parlons de votre projet", "en": "Tell us about your project" },
+        "subtitle": {
+          "fr": "Dernière page : confiance (témoignages) puis rappel des formules et pied de page.",
+          "en": "Last page: trust (testimonials) then plans reminder and footer."
+        },
+        "cta": { "fr": "Retour accueil", "en": "Back home" },
+        "ctaHref": "/",
+        "variant": "statement"
+      }
+    }
+  }
+}

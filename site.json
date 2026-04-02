@@ -1,0 +1,20 @@
+{
+  "title": "Aurora — studio créatif",
+  "description": "Modèle multi-pages clair : accueil, offre, à propos, contact.",
+  "canonicalUrl": "https://example.com/",
+  "og": {
+    "type": "website",
+    "url": "https://example.com/",
+    "title": "Aurora studio",
+    "description": "Démo Orbisite — thème indigo clair.",
+    "locale": "fr_FR",
+    "image": "placeholder.svg"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Aurora studio",
+    "description": "Démo Orbisite — thème indigo clair.",
+    "image": "placeholder.svg"
+  },
+  "favicon": "placeholder.svg"
+}
