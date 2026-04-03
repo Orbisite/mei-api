@@ -29,7 +29,9 @@
     "cta": { "fr": "Commander", "en": "Order" },
     "ctaHref": "#contact",
     "menu": { "fr": "Menu", "en": "Menu" },
-    "close": { "fr": "Fermer", "en": "Close" }
+    "close": { "fr": "Fermer", "en": "Close" },
+    "variant": "floating",
+    "linkDensity": "relaxed"
   },
   "hero": {
     "title": {
