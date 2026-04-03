@@ -1,19 +1,19 @@
 {
-  "title": "Mei — studio créatif",
-  "description": "Modèle multi-pages clair : accueil, offre, à propos, contact.",
+  "title": "Mei — crochet fait main",
+  "description": "Amigurumi et créations au crochet sur mesure. Tarifs et galerie.",
   "canonicalUrl": "https://example.com/",
   "og": {
     "type": "website",
     "url": "https://example.com/",
-    "title": "Mei studio",
-    "description": "Démo Orbisite — thème indigo clair.",
+    "title": "Mei crochet",
+    "description": "Créations au crochet fait main — galerie et commandes.",
     "locale": "fr_FR",
     "image": "placeholder.svg"
   },
   "twitter": {
     "card": "summary_large_image",
-    "title": "Mei studio",
-    "description": "Démo Orbisite — thème indigo clair.",
+    "title": "Mei crochet",
+    "description": "Créations au crochet fait main — galerie et commandes.",
     "image": "placeholder.svg"
   },
   "favicon": "placeholder.svg"

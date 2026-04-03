@@ -4,209 +4,168 @@
     "hero": "placeholder.svg",
     "favicon": "placeholder.svg",
     "ogImage": "placeholder.svg",
-    "bento": ["placeholder.svg", "placeholder.svg", "placeholder.svg"],
-    "testimonialAvatars": ["placeholder.svg", "placeholder.svg", "placeholder.svg"]
+    "gallery": [
+      "placeholder.svg",
+      "placeholder.svg",
+      "placeholder.svg",
+      "placeholder.svg",
+      "placeholder.svg",
+      "placeholder.svg"
+    ]
   },
   "navbar": {
-    "logo": { "fr": "Mei", "en": "Mei" },
+    "logo": { "fr": "Mei crochet", "en": "Mei crochet" },
     "links": [
       { "label": { "fr": "Accueil", "en": "Home" }, "href": "/" },
-      { "label": { "fr": "Offre", "en": "Services" }, "href": "/offre" },
-      { "label": { "fr": "À propos", "en": "About" }, "href": "/a-propos" },
-      { "label": { "fr": "Contact", "en": "Contact" }, "href": "/contact" }
+      { "label": { "fr": "Galerie", "en": "Gallery" }, "href": "/galerie" }
     ],
-    "cta": { "fr": "Écrire", "en": "Get in touch" },
-    "ctaHref": "/contact",
+    "cta": { "fr": "Commander", "en": "Order" },
+    "ctaHref": "#contact",
     "menu": { "fr": "Menu", "en": "Menu" },
     "close": { "fr": "Fermer", "en": "Close" }
   },
   "hero": {
     "title": {
-      "fr": "Studio créatif & sites vitrines",
-      "en": "Creative studio & marketing sites"
+      "fr": "Crochet fait main par Mei",
+      "en": "Handmade crochet by Mei"
     },
     "subtitle": {
-      "fr": "Modèle multi-pages : même page.config que le site de base, routes /offre, /a-propos, /contact. Thème clair indigo.",
-      "en": "Multi-page template: same page.config as the base site, routes /offre, /a-propos, /contact. Light indigo theme."
+      "fr": "Amigurumi, accessoires et pièces sur mesure. Chaque création est unique — dites-moi ce que vous imaginez, je m’en occupe.",
+      "en": "Amigurumi, accessories, and custom pieces. Every piece is unique — tell me what you have in mind."
     },
-    "cta": { "fr": "Découvrir l’offre", "en": "See services" },
-    "ctaHref": "/offre",
+    "cta": { "fr": "Voir la galerie", "en": "See the gallery" },
+    "ctaHref": "/galerie",
     "variant": "split",
-    "imageAlt": { "fr": "Aperçu", "en": "Preview" }
+    "imageAlt": { "fr": "Création au crochet", "en": "Crochet piece" }
   },
   "features": {
-    "sectionId": "services",
-    "title": { "fr": "Ce qu’on propose", "en": "What we offer" },
+    "sectionId": "pourquoi",
+    "title": { "fr": "Comment ça marche", "en": "How it works" },
     "subtitle": {
-      "fr": "Identité, mise en page modulaire, déploiement statique.",
-      "en": "Identity, modular layout, static deployment."
+      "fr": "Une commande simple, du fil à l’objet fini.",
+      "en": "A simple process from yarn to finished piece."
     },
     "items": [
       {
+        "icon": "puzzle",
+        "title": { "fr": "Sur mesure", "en": "Custom work" },
+        "text": {
+          "fr": "Couleurs, taille et modèle adaptés à votre idée (ou à votre photo).",
+          "en": "Colors, size, and style tailored to your idea or reference photo."
+        }
+      },
+      {
         "icon": "flash",
-        "title": { "fr": "Livraison rapide", "en": "Fast delivery" },
-        "text": { "fr": "Itérations courtes sur contenu JSON.", "en": "Short iterations on JSON content." }
+        "title": { "fr": "Délais clairs", "en": "Clear timelines" },
+        "text": {
+          "fr": "Je vous indique un délai réaliste avant de commencer — le crochet prend le temps qu’il faut.",
+          "en": "You get a realistic timeline before I start — good crochet can’t be rushed."
+        }
       },
       {
         "icon": "target",
-        "title": { "fr": "Objectifs clairs", "en": "Clear goals" },
-        "text": { "fr": "Une page par intention : offre, preuve sociale, contact.", "en": "One page per intent: offer, social proof, contact." }
-      },
-      {
-        "icon": "puzzle",
-        "title": { "fr": "Blocs composables", "en": "Composable blocks" },
-        "text": { "fr": "Réordonnez les sections par route dans content.pages.", "en": "Reorder sections per route in content.pages." }
+        "title": { "fr": "Qualité soignée", "en": "Neat finish" },
+        "text": {
+          "fr": "Finitions propres, fils de qualité, pièce prête à offrir ou à garder.",
+          "en": "Clean finishing, quality yarn — ready to gift or keep."
+        }
       }
     ]
   },
   "bento": {
-    "title": { "fr": "Réalisations", "en": "Selected work" },
-    "subtitle": { "fr": "Cartes cliquables vers d’autres routes.", "en": "Cards linking to other routes." },
-    "note": { "fr": "Remplacez par vos vrais projets.", "en": "Swap in your real projects." },
-    "items": [
-      {
-        "title": { "fr": "Refonte marque", "en": "Brand refresh" },
-        "text": { "fr": "Direction artistique et site.", "en": "Art direction and site." },
-        "href": "/offre",
-        "ctaText": { "fr": "Voir l’offre", "en": "Services" }
-      },
-      {
-        "title": { "fr": "Lancement produit", "en": "Product launch" },
-        "text": { "fr": "Landing + analytics.", "en": "Landing + analytics." },
-        "href": "/contact",
-        "ctaText": { "fr": "Nous contacter", "en": "Contact us" }
-      },
-      {
-        "title": { "fr": "Équipe & valeurs", "en": "Team & values" },
-        "text": { "fr": "Storytelling institutionnel.", "en": "Institutional storytelling." },
-        "href": "/a-propos",
-        "ctaText": { "fr": "À propos", "en": "About" }
-      }
-    ]
+    "title": { "fr": "Réalisations", "en": "Work" },
+    "subtitle": { "fr": "", "en": "" },
+    "note": { "fr": "", "en": "" },
+    "items": []
   },
   "pricing": {
     "highlightedPlan": 1,
-    "planCtaHref": "/contact",
-    "title": { "fr": "Formules", "en": "Plans" },
+    "planCtaHref": "#contact",
+    "title": { "fr": "Tarifs indicatifs", "en": "Guide prices" },
     "subtitle": {
-      "fr": "Exemple chiffré — à adapter à votre métier.",
-      "en": "Sample pricing — adapt to your business."
+      "fr": "Les prix varient selon la taille, la complexité et le fil. Contactez-moi pour un devis précis.",
+      "en": "Prices depend on size, complexity, and yarn. Get in touch for an exact quote."
     },
     "plans": [
       {
-        "name": { "fr": "Essentiel", "en": "Essential" },
-        "price": { "fr": "1 200 €", "en": "1,200 EUR" },
-        "description": { "fr": "Une landing + 2 pages.", "en": "One landing + 2 pages." },
+        "name": { "fr": "Petit accessoire", "en": "Small accessory" },
+        "price": { "fr": "dès 25 €", "en": "from €25" },
+        "description": {
+          "fr": "Porte-clés, petit grigri, marque-page…",
+          "en": "Keychains, small charms, bookmarks…"
+        },
         "features": [
-          { "fr": "Thème sur-mesure (API)", "en": "Custom theme (API)" },
-          { "fr": "Hébergement Pages inclus", "en": "Pages hosting included" }
+          { "fr": "1 à 2 couleurs", "en": "1–2 colors" },
+          { "fr": "Délai selon file d’attente", "en": "Lead time on request" }
         ],
-        "ctaText": { "fr": "Parler projet", "en": "Discuss project" }
+        "ctaText": { "fr": "Demander un prix", "en": "Ask for a quote" }
       },
       {
-        "name": { "fr": "Studio", "en": "Studio" },
-        "price": { "fr": "2 800 €", "en": "2,800 EUR" },
-        "description": { "fr": "Jusqu’à 5 pages + variantes mobile.", "en": "Up to 5 pages + mobile polish." },
+        "name": { "fr": "Amigurumi / peluche", "en": "Amigurumi / plush" },
+        "price": { "fr": "dès 55 €", "en": "from €55" },
+        "description": {
+          "fr": "Personnages, animaux, modèles classiques ou inspirés d’une photo.",
+          "en": "Characters, animals — classic patterns or based on a reference."
+        },
         "features": [
-          { "fr": "Tout Essentiel", "en": "Everything in Essential" },
-          { "fr": "Multi-langue (FR/EN)", "en": "Bilingual (FR/EN)" },
-          { "fr": "Priorité support", "en": "Priority support" }
+          { "fr": "Plusieurs tailles possibles", "en": "Multiple sizes" },
+          { "fr": "Détail des yeux et finitions", "en": "Eyes and finishing details" }
         ],
-        "ctaText": { "fr": "Réserver un créneau", "en": "Book a slot" }
+        "ctaText": { "fr": "En parler", "en": "Get in touch" }
       },
       {
-        "name": { "fr": "Sur mesure", "en": "Custom" },
+        "name": { "fr": "Projet sur mesure", "en": "Fully custom" },
         "price": { "fr": "Devis", "en": "Quote" },
-        "description": { "fr": "Intégrations, contenus riches, design system.", "en": "Integrations, rich content, design system." },
+        "description": {
+          "fr": "Grosse pièce, décor, série de cadeaux — on définit ensemble budget et délais.",
+          "en": "Large pieces, décor, gift sets — we align on budget and timeline."
+        },
         "features": [
-          { "fr": "Ateliers avec vos équipes", "en": "Workshops with your team" },
-          { "fr": "Roadmap dédiée", "en": "Dedicated roadmap" }
+          { "fr": "Croquis ou moodboard bienvenus", "en": "Sketches or moodboards welcome" },
+          { "fr": "Acompte possible pour réservation", "en": "Deposit option to book a slot" }
         ],
-        "ctaText": { "fr": "Nous écrire", "en": "Email us" }
+        "ctaText": { "fr": "Écrire à Mei", "en": "Message Mei" }
       }
     ]
   },
   "testimonials": {
-    "title": { "fr": "Ils en parlent", "en": "What clients say" },
-    "subtitle": { "fr": "Témoignages fictifs pour la démo.", "en": "Fictional quotes for the demo." },
-    "items": [
-      {
-        "name": { "fr": "Claire V.", "en": "Claire V." },
-        "text": { "fr": "Process clair et rendu soigné.", "en": "Clear process and polished output." },
-        "rating": 5
-      },
-      {
-        "name": { "fr": "Marc T.", "en": "Marc T." },
-        "text": { "fr": "Le site tient la route sur mobile.", "en": "The site holds up on mobile." },
-        "rating": 5
-      },
-      {
-        "name": { "fr": "Lina K.", "en": "Lina K." },
-        "text": { "fr": "Mises à jour simples via JSON.", "en": "Easy updates via JSON." },
-        "rating": 5
-      }
-    ]
+    "title": { "fr": "", "en": "" },
+    "subtitle": { "fr": "", "en": "" },
+    "items": []
+  },
+  "gallery": {
+    "sectionId": "galerie",
+    "title": { "fr": "Galerie", "en": "Gallery" },
+    "subtitle": {
+      "fr": "Amigurumi, accessoires et autres pièces déjà réalisées.",
+      "en": "Amigurumi, accessories, and other pieces I’ve already made."
+    },
+    "imageAspect": "square",
+    "columns": 3
   },
   "footer": {
     "privacy": { "fr": "Confidentialité", "en": "Privacy" },
-    "terms": { "fr": "Mentions", "en": "Legal" },
+    "terms": { "fr": "Mentions légales", "en": "Legal" },
     "contact": { "fr": "Contact", "en": "Contact" },
     "linkHrefs": {
       "privacy": "#",
       "terms": "#",
-      "contact": "/contact"
+      "contact": "mailto:contact@example.com"
     },
     "socials": [
-      { "label": { "fr": "Instagram", "en": "Instagram" }, "href": "#" },
-      { "label": { "fr": "Behance", "en": "Behance" }, "href": "#" }
+      { "label": { "fr": "Instagram", "en": "Instagram" }, "href": "#" }
     ],
     "copyright": {
-      "fr": "© 2026 Mei — modèle Orbisite.",
-      "en": "© 2026 Mei — Orbisite template."
+      "fr": "© 2026 Mei — crochet fait main.",
+      "en": "© 2026 Mei — handmade crochet."
     }
   },
   "pages": {
     "/": {
-      "sections": ["navbar", "hero", "features", "bento", "pricing", "testimonials", "footer"]
+      "sections": ["navbar", "hero", "features", "pricing", "footer"]
     },
-    "/offre": {
-      "sections": ["navbar", "hero", "features", "pricing", "testimonials", "footer"],
-      "hero": {
-        "title": { "fr": "Offre détaillée", "en": "Services in detail" },
-        "subtitle": {
-          "fr": "Cette route met l’accent sur les arguments (features) et les tarifs, puis la preuve sociale.",
-          "en": "This route emphasizes selling points (features) and pricing, then social proof."
-        },
-        "cta": { "fr": "Demander un devis", "en": "Request a quote" },
-        "ctaHref": "/contact",
-        "variant": "banner"
-      }
-    },
-    "/a-propos": {
-      "sections": ["navbar", "hero", "bento", "features", "footer"],
-      "hero": {
-        "title": { "fr": "Qui sommes-nous", "en": "Who we are" },
-        "subtitle": {
-          "fr": "Ici : hero + vitrine (bento) + rappel des piliers, sans pricing ni témoignages.",
-          "en": "Here: hero + showcase (bento) + pillars, no pricing or testimonials."
-        },
-        "cta": { "fr": "Voir les tarifs", "en": "See pricing" },
-        "ctaHref": "/offre",
-        "variant": "split"
-      }
-    },
-    "/contact": {
-      "sections": ["navbar", "hero", "testimonials", "pricing", "footer"],
-      "hero": {
-        "title": { "fr": "Parlons de votre projet", "en": "Tell us about your project" },
-        "subtitle": {
-          "fr": "Dernière page : confiance (témoignages) puis rappel des formules et pied de page.",
-          "en": "Last page: trust (testimonials) then plans reminder and footer."
-        },
-        "cta": { "fr": "Retour accueil", "en": "Back home" },
-        "ctaHref": "/",
-        "variant": "statement"
-      }
+    "/galerie": {
+      "sections": ["navbar", "gallery", "footer"]
     }
   }
 }
