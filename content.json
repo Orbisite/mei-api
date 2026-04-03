@@ -1,16 +1,23 @@
 {
   "images": {
     "logoSrc": "placeholder.svg",
-    "hero": "placeholder.svg",
+    "hero": "IMG20260403205806-removebg-preview.png",
     "favicon": "placeholder.svg",
-    "ogImage": "placeholder.svg",
+    "ogImage": "IMG20260403205956-removebg-preview.png",
     "gallery": [
-      "placeholder.svg",
-      "placeholder.svg",
-      "placeholder.svg",
-      "placeholder.svg",
-      "placeholder.svg",
-      "placeholder.svg"
+      "IMG20260403205806-removebg-preview.png",
+      "IMG20260403205810-removebg-preview.png",
+      "IMG20260403205820-removebg-preview.png",
+      "IMG20260403205825-removebg-preview.png",
+      "IMG20260403205833-removebg-preview.png",
+      "IMG20260403205839-removebg-preview.png",
+      "IMG20260403205845-removebg-preview.png",
+      "IMG20260403205850-removebg-preview.png",
+      "IMG20260403205855-removebg-preview.png",
+      "IMG20260403205932-removebg-preview.png",
+      "IMG20260403205943-removebg-preview.png",
+      "IMG20260403205949-removebg-preview.png",
+      "IMG20260403205956-removebg-preview.png"
     ]
   },
   "navbar": {
