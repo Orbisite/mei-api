@@ -48,7 +48,7 @@ L’accueil **`/`** utilise le JSON racine (tous les blocs par défaut) si tu ne
 
 ## `theme.json` — typographie et cartes (optionnel)
 
-Ces clés peuvent être **omises** : le site applique alors des défauts adaptés à un fond **sombre**. Pour un site **fond clair** (`contentScheme="light"`), définis-les pour garder un bon contraste (voir le dépôt `leo-giraud-api` comme exemple).
+Ces clés peuvent être **omises** : le site applique alors des défauts adaptés à un fond **sombre**. Pour un site **fond clair** (`contentScheme="light"`), définis-les pour garder un bon contraste (voir le dépôt `raito-api` comme exemple).
 
 | Préfixe | Rôle |
 |--------|------|

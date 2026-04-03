@@ -8,7 +8,7 @@
     "testimonialAvatars": ["placeholder.svg", "placeholder.svg", "placeholder.svg"]
   },
   "navbar": {
-    "logo": { "fr": "Aurora", "en": "Aurora" },
+    "logo": { "fr": "Mei", "en": "Mei" },
     "links": [
       { "label": { "fr": "Accueil", "en": "Home" }, "href": "/" },
       { "label": { "fr": "Offre", "en": "Services" }, "href": "/offre" },
@@ -161,8 +161,8 @@
       { "label": { "fr": "Behance", "en": "Behance" }, "href": "#" }
     ],
     "copyright": {
-      "fr": "© 2026 Aurora — modèle Orbisite.",
-      "en": "© 2026 Aurora — Orbisite template."
+      "fr": "© 2026 Mei — modèle Orbisite.",
+      "en": "© 2026 Mei — Orbisite template."
     }
   },
   "pages": {
