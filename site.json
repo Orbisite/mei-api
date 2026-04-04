@@ -1,19 +1,19 @@
 {
-  "title": "Mei — crochet fait main",
-  "description": "Amigurumi et créations au crochet sur mesure. Tarifs et galerie.",
-  "canonicalUrl": "https://example.com/",
+  "title": "Mei — Crochet fait main",
+  "description": "Crochet fait main — galerie et commandes.",
+  "canonicalUrl": "https://mei.crochet.fr/",
   "og": {
     "type": "website",
-    "url": "https://example.com/",
-    "title": "Mei crochet",
-    "description": "Créations au crochet fait main — galerie et commandes.",
+    "url": "https://mei.crochet.fr/",
+    "title": "Mei — Crochet fait main",
+    "description": "Crochet fait main — galerie et commandes.",
     "locale": "fr_FR",
     "image": "IMG20260403205956-removebg-preview.png"
   },
   "twitter": {
     "card": "summary_large_image",
-    "title": "Mei crochet",
-    "description": "Créations au crochet fait main — galerie et commandes.",
+    "title": "Mei — Crochet fait main",
+    "description": "Crochet fait main — galerie et commandes.",
     "image": "IMG20260403205956-removebg-preview.png"
   },
   "favicon": "placeholder.svg"
