@@ -1,23 +1,22 @@
 {
   "images": {
-    "logoSrc": "IMG20260403205806-removebg-preview.png",
-    "hero": "IMG20260403205806-removebg-preview.png",
-    "favicon": "IMG20260403205806-removebg-preview.png",
-    "ogImage": "IMG20260403205956-removebg-preview.png",
+    "logoSrc": "IMG20260405152219-removebg-preview.png",
+    "hero": "IMG20260405152219-removebg-preview.png",
+    "favicon": "IMG20260405152219-removebg-preview.png",
+    "ogImage": "IMG20260405152624-removebg-preview.png",
     "gallery": [
-      "IMG20260403205806-removebg-preview.png",
-      "IMG20260403205810-removebg-preview.png",
-      "IMG20260403205820-removebg-preview.png",
-      "IMG20260403205825-removebg-preview.png",
-      "IMG20260403205833-removebg-preview.png",
-      "IMG20260403205839-removebg-preview.png",
-      "IMG20260403205845-removebg-preview.png",
-      "IMG20260403205850-removebg-preview.png",
-      "IMG20260403205855-removebg-preview.png",
-      "IMG20260403205932-removebg-preview.png",
-      "IMG20260403205943-removebg-preview.png",
-      "IMG20260403205949-removebg-preview.png",
-      "IMG20260403205956-removebg-preview.png"
+      "IMG20260405152219-removebg-preview.png",
+      "IMG20260405152227-removebg-preview.png",
+      "IMG20260405152238-removebg-preview.png",
+      "IMG20260405152245-removebg-preview.png",
+      "IMG20260405152256-removebg-preview.png",
+      "IMG20260405152305-removebg-preview.png",
+      "IMG20260405152316-removebg-preview.png",
+      "IMG20260405152330-removebg-preview.png",
+      "IMG20260405152335-removebg-preview.png",
+      "IMG20260405152347-removebg-preview.png",
+      "IMG20260405152607-removebg-preview.png",
+      "IMG20260405152624-removebg-preview.png"
     ]
   },
   "navbar": {
