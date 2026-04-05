@@ -1,9 +1,9 @@
 {
   "images": {
-    "logoSrc": "IMG20260405152219-removebg-preview.png",
-    "hero": "IMG20260405152219-removebg-preview.png",
-    "favicon": "IMG20260405152219-removebg-preview.png",
-    "ogImage": "IMG20260405152624-removebg-preview.png",
+    "logoSrc": "logo.png",
+    "hero": "IMG20260405152238-removebg-preview.png",
+    "favicon": "logo.png",
+    "ogImage": "logo.png",
     "gallery": [
       "IMG20260405152219-removebg-preview.png",
       "IMG20260405152227-removebg-preview.png",
