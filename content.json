@@ -109,7 +109,8 @@
           { "fr": "1 à 2 couleurs", "en": "1–2 colors" },
           { "fr": "Délai selon file d’attente", "en": "Lead time on request" }
         ],
-        "ctaText": { "fr": "Demander un prix", "en": "Ask for a quote" }
+        "ctaText": { "fr": "Demander un prix", "en": "Ask for a quote" },
+        "openInNewTab": true
       },
       {
         "name": { "fr": "Amigurumi / peluche", "en": "Amigurumi / plush" },
@@ -122,7 +123,8 @@
           { "fr": "Plusieurs tailles possibles", "en": "Multiple sizes" },
           { "fr": "Détail des yeux et finitions", "en": "Eyes and finishing details" }
         ],
-        "ctaText": { "fr": "En parler", "en": "Get in touch" }
+        "ctaText": { "fr": "En parler", "en": "Get in touch" },
+        "openInNewTab": true
       },
       {
         "name": { "fr": "Chaque projet se discute", "en": "Every project is a conversation" },
@@ -135,7 +137,8 @@
           { "fr": "On affine tout ensemble au fil des messages", "en": "We refine everything together as we go" },
           { "fr": "Acompte possible pour réservation", "en": "Deposit option to book a slot" }
         ],
-        "ctaText": { "fr": "Écrire à Mei", "en": "Message Mei" }
+        "ctaText": { "fr": "Écrire à Mei", "en": "Message Mei" },
+        "openInNewTab": true
       }
     ]
   },
@@ -155,6 +158,13 @@
     "columns": 3
   },
   "footer": {
+    "links": [
+      {
+        "label": { "fr": "Commander", "en": "Order" },
+        "href": "https://www.instagram.com/mei_makes_crochet",
+        "openInNewTab": true
+      }
+    ],
     "socials": [
       {
         "label": { "fr": "Instagram", "en": "Instagram" },
