@@ -26,7 +26,8 @@
       { "label": { "fr": "Galerie", "en": "Gallery" }, "href": "/galerie" }
     ],
     "cta": { "fr": "Commander", "en": "Order" },
-    "ctaHref": "#contact",
+    "ctaHref": "https://www.instagram.com/mei_makes_crochet",
+    "ctaOpenInNewTab": true,
     "menu": { "fr": "Menu", "en": "Menu" },
     "close": { "fr": "Fermer", "en": "Close" }
   },
@@ -150,12 +151,12 @@
     "columns": 3
   },
   "footer": {
-    "contact": { "fr": "Contact", "en": "Contact" },
-    "linkHrefs": {
-      "contact": "mailto:mei.makes.crochet@gmail.com"
-    },
     "socials": [
-      { "label": { "fr": "Instagram", "en": "Instagram" }, "href": "https://www.instagram.com/mei_makes_crochet" }
+      {
+        "label": { "fr": "Instagram", "en": "Instagram" },
+        "href": "https://www.instagram.com/mei_makes_crochet",
+        "openInNewTab": true
+      }
     ],
     "copyright": {
       "fr": "© 2026 Mei — Crochet fait main.",
