@@ -159,7 +159,7 @@
       "contact": "mailto:contact@example.com"
     },
     "socials": [
-      { "label": { "fr": "Instagram", "en": "Instagram" }, "href": "#" }
+      { "label": { "fr": "Instagram", "en": "Instagram" }, "href": "https://www.instagram.com/mei_makes_crochet" }
     ],
     "copyright": {
       "fr": "© 2026 Mei — crochet fait main.",
