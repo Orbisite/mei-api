@@ -32,6 +32,7 @@
     "close": { "fr": "Fermer", "en": "Close" }
   },
   "hero": {
+    "eyebrow": { "fr": "Crochet fait main", "en": "Handmade crochet" },
     "title": {
       "fr": "Crochet fait main",
       "en": "Handmade crochet"
@@ -46,6 +47,7 @@
     "imageAlt": { "fr": "Création au crochet", "en": "Crochet piece" }
   },
   "features": {
+    "eyebrow": { "fr": "Comment ça marche", "en": "How it works" },
     "sectionId": "pourquoi",
     "title": { "fr": "Comment ça marche", "en": "How it works" },
     "subtitle": {
@@ -80,12 +82,14 @@
     ]
   },
   "bento": {
+    "eyebrow": { "fr": "Réalisations", "en": "Work" },
     "title": { "fr": "Réalisations", "en": "Work" },
     "subtitle": { "fr": "", "en": "" },
     "note": { "fr": "", "en": "" },
     "items": []
   },
   "pricing": {
+    "eyebrow": { "fr": "Tarifs indicatifs", "en": "Guide prices" },
     "highlightedPlan": 1,
     "planCtaHref": "https://www.instagram.com/mei_makes_crochet",
     "title": { "fr": "Tarifs indicatifs", "en": "Guide prices" },
