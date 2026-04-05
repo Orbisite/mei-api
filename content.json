@@ -32,12 +32,12 @@
   },
   "hero": {
     "title": {
-      "fr": "Crochet fait main par Mei",
-      "en": "Handmade crochet by Mei"
+      "fr": "Crochet fait main",
+      "en": "Handmade crochet"
     },
     "subtitle": {
-      "fr": "Amigurumi, accessoires et pièces sur mesure. Chaque création est unique — dites-moi ce que vous imaginez, je m’en occupe.",
-      "en": "Amigurumi, accessories, and custom pieces. Every piece is unique — tell me what you have in mind."
+      "fr": "Amigurumi, accessoires et autres pièces déjà réalisées.",
+      "en": "Amigurumi, accessories, and other pieces I’ve already made."
     },
     "cta": { "fr": "Voir la galerie", "en": "See the gallery" },
     "ctaHref": "/galerie",
@@ -54,26 +54,26 @@
     "items": [
       {
         "icon": "puzzle",
-        "title": { "fr": "Sur mesure", "en": "Custom work" },
+        "title": { "fr": "Chaque projet se discute", "en": "Every project is a conversation" },
         "text": {
-          "fr": "Couleurs, taille et modèle adaptés à votre idée (ou à votre photo).",
-          "en": "Colors, size, and style tailored to your idea or reference photo."
+          "fr": "Pas de grille figée : On échange sur votre idée, le budget et les délais avant de lancer les mailles.",
+          "en": "No fixed grid: We talk through your idea, budget, and timeline before I pick up the hook."
         }
       },
       {
         "icon": "flash",
-        "title": { "fr": "Délais clairs", "en": "Clear timelines" },
+        "title": { "fr": "On échange tout ensemble", "en": "We refine everything together as we go" },
         "text": {
-          "fr": "Je vous indique un délai réaliste avant de commencer — le crochet prend le temps qu’il faut.",
-          "en": "You get a realistic timeline before I start — good crochet can’t be rushed."
+          "fr": "On affine tout ensemble au fil des messages — le crochet prend le temps qu’il faut.",
+          "en": "We refine everything together as we go — good crochet can’t be rushed."
         }
       },
       {
         "icon": "target",
-        "title": { "fr": "Qualité soignée", "en": "Neat finish" },
+        "title": { "fr": "Acompte possible pour réservation", "en": "Deposit option to book a slot" },
         "text": {
-          "fr": "Finitions propres, fils de qualité, pièce prête à offrir ou à garder.",
-          "en": "Clean finishing, quality yarn — ready to gift or keep."
+          "fr": "Un acompte possible pour réserver un créneau — le reste sera réglé avant la livraison.",
+          "en": "A deposit option to book a slot — the rest will be paid before delivery."
         }
       }
     ]
@@ -86,7 +86,7 @@
   },
   "pricing": {
     "highlightedPlan": 1,
-    "planCtaHref": "#contact",
+    "planCtaHref": "https://www.instagram.com/mei_makes_crochet",
     "title": { "fr": "Tarifs indicatifs", "en": "Guide prices" },
     "subtitle": {
       "fr": "Les prix varient selon la taille, la complexité et le fil. Contactez-moi pour un devis précis.",
@@ -95,7 +95,7 @@
     "plans": [
       {
         "name": { "fr": "Petit accessoire", "en": "Small accessory" },
-        "price": { "fr": "dès 25 €", "en": "from €25" },
+        "price": { "fr": "dès 5 €", "en": "from €5" },
         "description": {
           "fr": "Porte-clés, petit grigri, marque-page…",
           "en": "Keychains, small charms, bookmarks…"
@@ -108,10 +108,10 @@
       },
       {
         "name": { "fr": "Amigurumi / peluche", "en": "Amigurumi / plush" },
-        "price": { "fr": "dès 55 €", "en": "from €55" },
+        "price": { "fr": "dès 25 €", "en": "from €25" },
         "description": {
-          "fr": "Personnages, animaux, modèles classiques ou inspirés d’une photo.",
-          "en": "Characters, animals — classic patterns or based on a reference."
+          "fr": "Personnages, animaux ou modèles classiques",
+          "en": "Characters, animals or classic patterns"
         },
         "features": [
           { "fr": "Plusieurs tailles possibles", "en": "Multiple sizes" },
@@ -120,14 +120,14 @@
         "ctaText": { "fr": "En parler", "en": "Get in touch" }
       },
       {
-        "name": { "fr": "Projet sur mesure", "en": "Fully custom" },
+        "name": { "fr": "Chaque projet se discute", "en": "Every project is a conversation" },
         "price": { "fr": "Devis", "en": "Quote" },
         "description": {
-          "fr": "Grosse pièce, décor, série de cadeaux — on définit ensemble budget et délais.",
-          "en": "Large pieces, décor, gift sets — we align on budget and timeline."
+          "fr": "Pas de grille figée : On échange sur votre idée, le budget et les délais avant de lancer les mailles.",
+          "en": "No fixed grid: We talk through your idea, budget, and timeline before I pick up the hook."
         },
         "features": [
-          { "fr": "Croquis ou moodboard bienvenus", "en": "Sketches or moodboards welcome" },
+          { "fr": "On affine tout ensemble au fil des messages", "en": "We refine everything together as we go" },
           { "fr": "Acompte possible pour réservation", "en": "Deposit option to book a slot" }
         ],
         "ctaText": { "fr": "Écrire à Mei", "en": "Message Mei" }
@@ -150,20 +150,16 @@
     "columns": 3
   },
   "footer": {
-    "privacy": { "fr": "Confidentialité", "en": "Privacy" },
-    "terms": { "fr": "Mentions légales", "en": "Legal" },
     "contact": { "fr": "Contact", "en": "Contact" },
     "linkHrefs": {
-      "privacy": "#",
-      "terms": "#",
-      "contact": "mailto:contact@example.com"
+      "contact": "mailto:mei.makes.crochet@gmail.com"
     },
     "socials": [
       { "label": { "fr": "Instagram", "en": "Instagram" }, "href": "https://www.instagram.com/mei_makes_crochet" }
     ],
     "copyright": {
-      "fr": "© 2026 Mei — crochet fait main.",
-      "en": "© 2026 Mei — handmade crochet."
+      "fr": "© 2026 Mei — Crochet fait main.",
+      "en": "© 2026 Mei — Handmade crochet."
     }
   },
   "pages": {
