@@ -8,13 +8,13 @@
     "title": "Mei — Crochet fait main",
     "description": "Crochet fait main — galerie et commandes.",
     "locale": "fr_FR",
-    "image": "IMG20260405152624-removebg-preview.png"
+    "image": "logo.png"
   },
   "twitter": {
     "card": "summary_large_image",
     "title": "Mei — Crochet fait main",
     "description": "Crochet fait main — galerie et commandes.",
-    "image": "IMG20260405152624-removebg-preview.png"
+    "image": "logo.png"
   },
-  "favicon": "placeholder.svg"
+  "favicon": "logo.png"
 }
